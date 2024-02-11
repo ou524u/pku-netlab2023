@@ -1,2 +1,2 @@
 # pku-netlab2023
-course labs for N2Sys-EDU 23summer @pku
+course labs for computer network, N2Sys-EDU lab1-4, 23summer@pku
